@@ -1,0 +1,22 @@
+/* App Base Styles */
+
+/* Ensure footer stays at bottom */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+/* Page transitions */
+main {
+  animation: fadeIn 0.3s ease;
+}
+
+/* Ensure content doesn't get hidden behind fixed header */
+main {
+  padding-top: 80px;
+}
