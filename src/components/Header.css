@@ -3,7 +3,7 @@
     top: 0;
     left: 0;
     right: 0;
-    z-index: var(--z-fixed);
+    z-index: 10000;
     padding: var(--space-4) 0;
     transition: all var(--transition-base);
     background: rgba(10, 22, 40, 0.7);
@@ -218,7 +218,7 @@
     bottom: 0;
     background: #0a1628;
     background-color: #0a1628;
-    z-index: 9999;
+    z-index: 10001;
     padding: 100px var(--space-6) var(--space-6);
     transform: translateX(100%);
     opacity: 0;
