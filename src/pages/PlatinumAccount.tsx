@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 import { ArrowRight, CheckCircle, Gem } from 'lucide-react';
-import Hero from '../components/Hero';
 import FAQAccordion from '../components/FAQAccordion';
 import './ProductPage.css';
 

@@ -15,7 +15,7 @@ const consultationMethods = [
 ];
 
 export default function BookConsultation() {
-    const [step, setStep] = useState(1);
+
     const [formData, setFormData] = useState({
         date: '',
         time: '',

@@ -5,7 +5,6 @@ import ProductCard from '../components/ProductCard';
 import TransactionCarousel from '../components/TransactionCarousel';
 import TestimonialCarousel from '../components/TestimonialCarousel';
 import FAQAccordion from '../components/FAQAccordion';
-import TrustBadges from '../components/TrustBadges';
 import './Home.css';
 
 // Pain Points Data

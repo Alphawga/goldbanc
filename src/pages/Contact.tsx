@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { MapPin, Phone, Mail, Clock, Send, MessageCircle } from 'lucide-react';
+import { MapPin, Phone, Mail, Clock, Send } from 'lucide-react';
 import Hero from '../components/Hero';
 import './Contact.css';
 

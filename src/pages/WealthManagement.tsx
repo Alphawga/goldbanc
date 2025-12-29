@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, Gem, Diamond, Award, BarChart3, Target, BarChart, Shield, Users, CheckCircle } from 'lucide-react';
+import { ArrowRight, Gem, Diamond, Award, BarChart3, Target, BarChart, Shield, Users } from 'lucide-react';
 import Hero from '../components/Hero';
 import ProductCard from '../components/ProductCard';
 import './WealthManagement.css';
